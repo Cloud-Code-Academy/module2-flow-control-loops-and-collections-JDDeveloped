@@ -367,7 +367,7 @@ public with sharing class FlowControlLoopsCollections {
         // Get the salary of the employee
 
         // Return the salary of the employee, or null if the employee is not found in the Map
-        return null; // Replace null with the variable you used to store the result
+        return Salary; // Replace null with the variable you used to store the result
     }
 
     /**
